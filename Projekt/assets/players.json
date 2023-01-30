@@ -1,0 +1,62 @@
+[
+  {
+    "name":"Ricardo",
+    "surName": "Junior",
+    "national": "Brazylia",
+    "age": "21",
+    "height": "198 cm",
+    "weight": "98 kg",
+    "latestClub": "San Paulo",
+    "position": "Rozgrywajacy"
+  },
+ {
+    "name":"Jakub",
+    "surName": "Zawisza",
+    "national": "Polska",
+    "age": "23",
+    "height": "201 cm",
+    "weight": "102 kg",
+    "latestClub": "LUK Lublin",
+    "position": "Środkowy"
+  },
+  {
+    "name":"Conrad",
+    "surName": "Brokula",
+    "national": "Canada-Polska",
+    "age": "24",
+    "height": "193 cm",
+    "weight": "101 kg",
+    "latestClub": "UKS Łęczna",
+    "position": "Przyjmujący"
+  },
+  {
+    "name":"Sebastian",
+    "surName": "Problem",
+    "national": "Polska",
+    "age": "22",
+    "height": "199 cm",
+    "weight": "94 kg",
+    "latestClub": "Legia Warszawa",
+    "position": "Przyjmujący"
+  },
+  {
+    "name":"Michał",
+    "surName": "Kurek",
+    "national": "Polska",
+    "age": "19",
+    "height": "207 cm",
+    "weight": "106 kg",
+    "latestClub": "Początek Kariery",
+    "position": "Środkowy"
+  },
+  {
+    "name":"Janusz",
+    "surName": "Miras",
+    "national": "Polska",
+    "age": "23",
+    "height": "197 cm",
+    "weight": "95 kg",
+    "latestClub": "Radomiak Radom",
+    "position": "Atakujący"
+  }
+]
