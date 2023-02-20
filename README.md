@@ -2,7 +2,7 @@
 
 Witam!
 
-Jest to strona klubu siatkarskiego z backendem opartym na czystym PHP. Frontend powstał na podstawie szablonu bootstrap w wersji 5.
+Jest to strona klubu siatkarskiego zrobiona na zaliczenie przedmiotu na studiach. Backend został zrobiony na czystym PHP. Frontend powstał na podstawie szablonu bootstrap w wersji 5.
 
 W celu uruchomienia strony na systemie windows musisz wykonać następujące czynności:
 
